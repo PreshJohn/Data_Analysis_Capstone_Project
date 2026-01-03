@@ -67,5 +67,5 @@ This repository contains my **capstone projects** completed during my Data Analy
 
 ---
 
-## Project Presentation
+## Dano Airlines Passenger Satisfaction Analysis Dashboard Presentation
 [*Watch the presentation video*](https://www.loom.com/share/7acba16c122b4a3aa1073def1a20b853)
