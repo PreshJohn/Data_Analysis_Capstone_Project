@@ -68,4 +68,4 @@ This repository contains my **capstone projects** completed during my Data Analy
 ---
 
 ## Project Presentation
-*Presentation video link to be added once recorded.*
+[*Watch the presentation video*](https://www.loom.com/share/7acba16c122b4a3aa1073def1a20b853)
